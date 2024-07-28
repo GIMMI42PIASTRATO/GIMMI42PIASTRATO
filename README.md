@@ -35,7 +35,7 @@ const vittorio = {
 ```
 
 ### 🔥 Streak Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GIMMI42PIASTRATO" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=GIMMI42PIASTRATO" alt="GitHub Streak" /></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
