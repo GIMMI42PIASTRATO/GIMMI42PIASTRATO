@@ -16,7 +16,7 @@ My portfolio: [vittoriobussano.vercel.app](https://vittoriobussano.vercel.app/)
 ```javascript
 const vittorio = {
     pronouns: "He" | "Him",
-    code: ["Typescript", "Javascript", "HTML", "CSS", "Python", "PHP"],
+    code: ["Typescript", "Javascript", "HTML", "CSS", "Python", "PHP", "SQL"],
     technologies: {
         frontEnd: ["Nextjs", "React", "Tailwind CSS"],
         backEnd: {
@@ -24,10 +24,10 @@ const vittorio = {
             python: ["FastAPI"]
         },
         devOps: ["git", "GitHub"],
-        databases: ["mongo", "MySql"],
+        databases: ["mongo", "MySql", "PostgreSQL"],
         orm: ["Drizzle", "Prisma"],
         shellScripting: ["bash"],
-        misc: ["Supabase", "Pocketbase", "PHP"]
+        misc: ["Supabase", "Pocketbase"]
     },
     currentFocus: "Improve in the development of SAAS",
 };
