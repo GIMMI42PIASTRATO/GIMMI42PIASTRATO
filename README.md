@@ -21,7 +21,7 @@ const vittorio = {
         frontEnd: ["Nextjs", "React", "Tailwind CSS"],
         backEnd: {
             js: ["Node", "Nextjs", "Express"],
-            php: ["Laravel"]
+            php: ["Laravel"],
             python: ["FastAPI"]
         },
         devOps: ["git", "GitHub"],
