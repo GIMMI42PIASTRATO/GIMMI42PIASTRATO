@@ -1,7 +1,7 @@
 <h2>Ciao, I'm Vittorio Bussano! <img src="https://cdn.discordapp.com/emojis/1150902052365549669.webp?size=48&quality=lossless" width="35"></h2>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkxcXByMDI5OXZxNTY2M2dndjM1ODJnMmJyNDd6YW90azUwMzgyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="230">
 <p><em>18 year old student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
-</em></br><em>Currently working on <a href="https://github.com/GIMMI42PIASTRATO/TextVault">TextVault</a> and <a href="https://github.com/rikvik2006/discord-mass-dm-nodejs">discord-mass-dm-nodejs</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></br><em>Currently working on <a href="https://github.com/GIMMI42PIASTRATO/pinin-GPT">PininGPT</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/GIMMI42PIASTRATO?label=Follow&style=social)
@@ -21,15 +21,16 @@ const vittorio = {
         frontEnd: ["Nextjs", "React", "Tailwind CSS"],
         backEnd: {
             js: ["Node", "Nextjs", "Express"],
+            php: ["Laravel"]
             python: ["FastAPI"]
         },
         devOps: ["git", "GitHub"],
-        databases: ["mongo", "MySql", "PostgreSQL"],
+        databases: ["MySql", "PostgreSQL", "MongoDB"],
         orm: ["Drizzle", "Prisma"],
         shellScripting: ["bash"],
-        misc: ["Supabase", "Pocketbase"]
+        misc: ["Supabase", "Pocketbase", "Ollama"]
     },
-    currentFocus: "Improve in the development of SAAS",
+    currentFocus: "Build things that i like",
 };
 ```
 
