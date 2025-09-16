@@ -1,6 +1,6 @@
 <h2>Ciao, I'm Vittorio Bussano! <img src="https://cdn.discordapp.com/emojis/1150902052365549669.webp?size=48&quality=lossless" width="35"></h2>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkxcXByMDI5OXZxNTY2M2dndjM1ODJnMmJyNDd6YW90azUwMzgyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="230">
-<p><em>18 year old student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<p><em>19 year old student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></br><em>Currently working on <a href="https://github.com/GIMMI42PIASTRATO/pinin-GPT">PininGPT</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
