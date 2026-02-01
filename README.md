@@ -24,7 +24,7 @@ const vittorio = {
             php: ["Laravel"],
             python: ["FastAPI"]
         },
-        devOps: ["git", "GitHub"],
+        devOps: ["Linux", "git", "GitHub", "Docker"],
         databases: ["MySql", "PostgreSQL", "MongoDB"],
         orm: ["Drizzle", "Prisma"],
         shellScripting: ["bash"],
